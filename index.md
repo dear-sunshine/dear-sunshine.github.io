@@ -27,15 +27,16 @@ Dear Sunshine is a platform where users can write and send uplifting letters to 
 Home Page: The main page displays featured letters and a call-to-action for users to “Write a Letter” or “Read a Letter.” The page encourages engagement with inspiring quotes or uplifting messages.
 ![Landing Page Screenshot](doc/dear-sunshine-front-page.png)
 User Profile: Users can create anonymous profiles with minimal personalization options (like a username and avatar colors). This page displays the user’s sent letters, received responses, and earned stickers.
-
+![Landing Page Screenshot](doc/dear-sunshine-note-page.jpg)
 Message Board: Displays a collection of anonymous letters that users can filter by mood or theme, such as “Encouragement” or “Positive Thoughts.” Users can respond to letters or “Send Sunshine” as a virtual cheer.
 
-![Landing Page Screenshot](doc/dear-sunshine-note.png)
+![Landing Page Screenshot](doc/dear-sunshine-message-board.jpg)
 
 Inbox: An organized page for users to view incoming responses to their letters, sort through replies, and archive conversations.
 
 Sticker Book: A collection of virtual stickers users can earn by reaching certain goals (e.g., sending five letters) and share with others.
 
+![Landing Page Screenshot](doc/dear-sunshine-sticker-book.jpg)
 Mental Help Resources: A page with helpful links and contact information for mental health resources, including helplines and local organizations.
 
 ## Installation
