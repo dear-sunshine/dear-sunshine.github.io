@@ -18,6 +18,24 @@ To keep this codebase simple and small, some important capabilities are intentio
 
 Examples of the these capabilities will be provided elsewhere. -->
 
+## Description
+
+Dear Sunshine is a platform where users can write and send uplifting letters to people who need encouragement. The app allows users to connect through anonymous, positive messages. Additionally, users can unlock and send virtual stickers to further brighten someone’s day, creating a supportive, friendly environment.
+
+## Mockup Pages
+
+Home Page: The main page displays featured letters and a call-to-action for users to “Write a Letter” or “Read a Letter.” The page encourages engagement with inspiring quotes or uplifting messages.
+
+User Profile: Users can create anonymous profiles with minimal personalization options (like a username and avatar colors). This page displays the user’s sent letters, received responses, and earned stickers.
+
+Message Board: Displays a collection of anonymous letters that users can filter by mood or theme, such as “Encouragement” or “Positive Thoughts.” Users can respond to letters or “Send Sunshine” as a virtual cheer.
+
+Inbox: An organized page for users to view incoming responses to their letters, sort through replies, and archive conversations.
+
+Sticker Book: A collection of virtual stickers users can earn by reaching certain goals (e.g., sending five letters) and share with others.
+
+Mental Help Resources: A page with helpful links and contact information for mental health resources, including helplines and local organizations.
+
 ## Installation
 
 First, [install PostgreSQL](https://www.postgresql.org/download/). Then create a database for your application.
