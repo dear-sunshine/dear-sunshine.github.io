@@ -30,9 +30,10 @@ User Profile: Users can create anonymous profiles with minimal personalization o
 ![Landing Page Screenshot](doc/dear-sunshine-note-page.jpg)
 Message Board: Displays a collection of anonymous letters that users can filter by mood or theme, such as “Encouragement” or “Positive Thoughts.” Users can respond to letters or “Send Sunshine” as a virtual cheer.
 
-![Landing Page Screenshot](doc/dear-sunshine-message-board.jpg)
+![Landing Page Screenshot](doc/dear-sunshine-note.png)
 
 Inbox: An organized page for users to view incoming responses to their letters, sort through replies, and archive conversations.
+![Landing Page Screenshot](doc/dear-sunshine-message-board.jpg)
 
 Sticker Book: A collection of virtual stickers users can earn by reaching certain goals (e.g., sending five letters) and share with others.
 
