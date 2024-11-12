@@ -1,6 +1,4 @@
-![](https://github.com/ics-software-engineering/nextjs-application-template/raw/main/doc/landing-page.png)
-
-nextjs-application-template is a sample Next.js 14 application that illustrates:
+<!-- Dear sunshine application that illustrates:
 
 - A standard directory layout using 'src/' as recommended in the [Next.js Project Structure](https://nextjs.org/docs/getting-started/project-structure) guide.
 - [Bootstrap 5 React](https://react-bootstrap.github.io/) for user interface.
@@ -18,7 +16,7 @@ To keep this codebase simple and small, some important capabilities are intentio
 - Security
 - Deployment
 
-Examples of the these capabilities will be provided elsewhere.
+Examples of the these capabilities will be provided elsewhere. -->
 
 ## Installation
 
@@ -26,7 +24,7 @@ First, [install PostgreSQL](https://www.postgresql.org/download/). Then create a
 
 ```
 
-$ createdb nextjs-application-template
+$ createdb dear-sunshine
 Password:
 $
 
@@ -51,7 +49,7 @@ Fifth, create a `.env` file from the `sample.env`. Set the `DATABASE_URL` variab
 $ npx prisma migrate dev
 Environment variables loaded from .env
 Prisma schema loaded from prisma/schema.prisma
-Datasource "db": PostgreSQL database "<your database name>", schema "public" at "localhost:5432"
+Datasource "db": PostgreSQL database "dear-sunshine", schema "public" at "localhost:5432"
 
 Applying migration `20240708195109_init`
 
@@ -77,12 +75,6 @@ $ npx prisma db seed
 Environment variables loaded from .env
 Running seed command `ts-node --compiler-options {"module":"CommonJS"} prisma/seed.ts` ...
 Seeding the database
-Creating user: admin@foo.com with role: ADMIN
-Creating user: john@foo.com with role: USER
-Adding stuff: Basket (john@foo.com)
-Adding stuff: Bicycle (john@foo.com)
-Adding stuff: Banana (admin@foo.com)
-Adding stuff: Boogie Board (admin@foo.com)
 
 🌱 The seed command has been executed.
 $
@@ -97,7 +89,7 @@ Once the libraries are installed and the database seeded, you can run the applic
 
 $ npm run dev
 
-> nextjs-application-template-1@0.1.0 dev
+> dear-sunshine-1@0.1.0 dev
 > next dev
 
 ▲ Next.js 14.2.4
@@ -128,7 +120,7 @@ $ npm run lint
 $
 ```
 
-## Walkthrough
+<!--## Walkthrough
 
 The following sections describe the major features of this template.
 
@@ -353,34 +345,22 @@ The [config](https://github.com/ics-software-engineering/nextjs-application-temp
 
 The [.gitignore](https://github.com/ics-software-engineering/nextjs-application-template/blob/main/.gitignore) file prevents a file named settings.production.json from being committed to the repository. So, if you are deploying the application, you can put settings in a file named settings.production.json and it will not be committed.
 
-### Quality Assurance
+### Quality Assurance -->
 
 #### ESLint
 
 The application includes a [.eslintrc.json](https://github.com/ics-software-engineering/nextjs-application-template/blob/main/.eslintrc.json) file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
 
 ```
-[~/nextjs-application-template]-> npm run lint
+[~/dear-sunshine]-> npm run lint
 
-> nextjs-application-template-1@0.1.0 lint
+> dear-sunshine-1@0.1.0 lint
 > next lint
 
 ✔ No ESLint warnings or errors
-[~/nextjs-application-template]->
+[~/dear-sunshine]->
 ```
 
 ESLint should run without generating any errors.
 
 It's significantly easier to do development with ESLint integrated directly into your IDE (such as VSCode).
-
-<!--
-## Screencasts
-
-For more information about this system, please watch one or more of the following screencasts. Note that the current source code might differ slightly from the code in these screencasts, but the changes should be very minor.
-
-- [Walkthrough of system user interface (6 min)](https://youtu.be/48xu1hrqUi8)
-- [Data and accounts structure and initialization (18 min)](https://youtu.be/HZRjwrVBWp4)
-- [Navigation, routing, pages, components (34 min)](https://youtu.be/XztTdHpv6Jw)
-- [Forms (32 min)](https://youtu.be/8FyWR3gUGCM)
-- [Authorization, authentication, and roles (12 min)](https://youtu.be/9HX5vuXTlvA)
--->
