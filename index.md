@@ -97,6 +97,12 @@ $ npx prisma db seed
 Environment variables loaded from .env
 Running seed command `ts-node --compiler-options {"module":"CommonJS"} prisma/seed.ts` ...
 Seeding the database
+Creating user: admin@foo.com with role: ADMIN
+Creating user: john@foo.com with role: USER
+Adding stuff: Basket (john@foo.com)
+Adding stuff: Bicycle (john@foo.com)
+Adding stuff: Banana (admin@foo.com)
+Adding stuff: Boogie Board (admin@foo.com)
 
 🌱 The seed command has been executed.
 $
