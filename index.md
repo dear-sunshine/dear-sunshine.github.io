@@ -51,7 +51,7 @@ Many people experience feelings of isolation or sadness and could benefit from p
   <div class="content">
     <h2>Letter Board</h2>
     <p>Displays a collection of anonymous letters that users can filter by subject, such as “School” or “Friendship.” Users can respond to letters on this page or send a virtual cheer by clicking “Send Sunshine.”</p>
-    <img src="./letter-board.jpg">
+    <img src="./letter-board-1.jpg">
     <img src="./letter-board-2.jpg">
   </div>
 </div>
