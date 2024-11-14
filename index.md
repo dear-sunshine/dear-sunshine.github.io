@@ -71,8 +71,6 @@ Many people experience feelings of isolation or sadness and could benefit from p
 
 ## Project Milestones
 ### [M1 Issues](https://github.com/orgs/dear-sunshine/projects/3)
-M2
-M3
 
 ## Developer Guide
 1. [Install PostgreSQL](https://www.postgresql.org/download/).
