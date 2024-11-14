@@ -1,16 +1,16 @@
 ## Navigation
-- [Overview](##overview)
-- [Project Mockups](##project-mockups)
-- [Project Milestones](##project-goals)
-- [User Guide](##user-guide)
-- [Developer Guide](##developer-guide)
-- [Team](##team)
+* [Overview](#overview)
+* [Project Mockups](#project-mockups)
+* [Project Milestones](#project-milestones)
+* [Developer Guide](#developer-guide)
+* [Team](#team)
+* [Organization](#organization)
 
 ## Overview
 
 Many people experience feelings of isolation or sadness and could benefit from positive, uplifting messages to brighten their day. While social media allows for sharing updates, it lacks a dedicated space where users can anonymously send and receive encouragement within a supportive community. Dear Sunshine addresses this gap by providing a platform where users can receive kind messages in response to what they've shared or vented about on the board.
 
-# Project Mockups
+## Project Mockups
 <div class="container">
   <div class="content">
     <h2>Home Page</h2>
@@ -71,12 +71,9 @@ Many people experience feelings of isolation or sadness and could benefit from p
 </div>
 
 ## Project Milestones
-M1
+<h3>[M1 Issues](https://github.com/orgs/dear-sunshine/projects/3)</h3>
 M2
 M3
-
-## User Guide
-- 
 
 ## Developer Guide
 1. [Install PostgreSQL](https://www.postgresql.org/download/).
@@ -85,12 +82,12 @@ M3
 4. `cd` into the directory of your local copy of the repository and install third party libraries with `npm install`.
 5. Create a `.env` file from the `sample.env`.
 6. Run the Prisma migration `npx prisma migrate dev` to set up the PostgreSQL tables.
-7. seed the database with the `/config/settings.development.json` data using `npx prisma db seed`.
+7. Seed the database with the `/config/settings.development.json` data using `npx prisma db seed`.
 8. Run the app with `npm run dev`.
 9. If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000).
 
-# Team
-
+## Team
+Dear is designed, created and built by [Casey Caro](https://kmiks.github.io/), [Isabelle Castro](https://icastro808.github.io/), [Lucas Corriero](https://lucascorriero.github.io/) and [Tiffany Duong](https://tiffanyduong1.github.io/).
 
 ## Organization
-- GitHub: [Dear Sunshine](https://github.com/dear-sunshine/dear-sunshine.github.io)
+GitHub: [Dear Sunshine](https://github.com/dear-sunshine/dear-sunshine.github.io)
