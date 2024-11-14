@@ -14,17 +14,16 @@ Many people experience feelings of isolation or sadness and could benefit from p
 <div class="container">
   <div class="content">
     <h2>Home Page</h2>
-    <img src="./dear-sunshine-front-page.png">
     <p>The main page displays featured letters and a call-to-action for users to “Write a Letter” or “Read a Letter.” The page encourages engagement with inspiring quotes or uplifting messages.</p>
+    <img src="./dear-sunshine-front-page.png">
   </div>
 </div>
 
-<div class="container">
+<!-- <div class="container">
   <div class="content">
     <h2>Sign Up/Sign In</h2>
-    <img src="./dear-sunshine-front-page.png">
   </div>
-</div>
+</div> -->
 
 <div class="container">
   <div class="content">
@@ -43,16 +42,16 @@ Many people experience feelings of isolation or sadness and could benefit from p
 <div class="container">
   <div class="content">
     <h2>Write Letter</h2>
-    <img src="./write-letter.png">
     <p>A page where users can compose and post their letters to the letter board, offering encouragement or sharing their thoughts.</p>
+    <img src="./write-letter.png">
   </div>
 </div>
 
 <div class="container">
   <div class="content">
     <h2>Letter Board</h2>
-    <img src="./letter-board.png">
     <p>Displays a collection of anonymous letters that users can filter by subject, such as “School” or “Friendship.” Users can respond to letters on this page or send a virtual cheer by clicking “Send Sunshine.”</p>
+    <img src="./letter-board.png">
   </div>
 </div>
 
@@ -71,7 +70,7 @@ Many people experience feelings of isolation or sadness and could benefit from p
 </div>
 
 ## Project Milestones
-<h3>[M1 Issues](https://github.com/orgs/dear-sunshine/projects/3)</h3>
+### [M1 Issues](https://github.com/orgs/dear-sunshine/projects/3)
 M2
 M3
 
