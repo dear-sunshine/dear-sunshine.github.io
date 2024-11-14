@@ -1,4 +1,4 @@
-## Navigation
+## Dear Sunshine
 * [Overview](#overview)
 * [Project Mockups](#project-mockups)
 * [Project Milestones](#project-milestones)
@@ -70,7 +70,7 @@ Many people experience feelings of isolation or sadness and could benefit from p
 </div>
 
 ## Project Milestones
-### [M1 Issues](https://github.com/orgs/dear-sunshine/projects/3)
+[M1 Issues](https://github.com/orgs/dear-sunshine/projects/3)
 
 ## Developer Guide
 1. [Install PostgreSQL](https://www.postgresql.org/download/).
