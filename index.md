@@ -92,4 +92,4 @@ Dear is designed, created and built by [Casey Caro](https://kmiks.github.io/), [
 
 ## Organization
 [Dear Sunshine Organization](https://github.com/dear-sunshine)
-[Current Page's Repository]([https://github.com/dear-sunshin](https://github.com/dear-sunshine/dear-sunshine.github.io/tree/main)
+[Current Page's Repository](https://github.com/dear-sunshine/dear-sunshine.github.io/tree/main)
