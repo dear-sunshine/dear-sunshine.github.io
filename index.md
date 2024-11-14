@@ -73,7 +73,7 @@ Many people experience feelings of isolation or sadness and could benefit from p
 </div>
 
 ## Project Milestones
-[M1 Issues](https://github.com/orgs/dear-sunshine/projects/3)
+* [M1 Issues](https://github.com/orgs/dear-sunshine/projects/3)
 
 ## Developer Guide
 1. [Install PostgreSQL](https://www.postgresql.org/download/).
@@ -91,5 +91,5 @@ Dear is designed, created and built by [Casey Caro](https://kmiks.github.io/), [
 [Team Contract](https://docs.google.com/document/d/18n-m7_Bmxgu_4VKnOa8Fqvjzj1smqy1n0AgkDyvxk6c/edit?tab=t.0).
 
 ## Organization
-[Dear Sunshine Organization](https://github.com/dear-sunshine)
-[Current Page's Repository](https://github.com/dear-sunshine/dear-sunshine.github.io/tree/main)
+* [Dear Sunshine Organization](https://github.com/dear-sunshine)
+* [Current Page's Repository](https://github.com/dear-sunshine/dear-sunshine.github.io/tree/main)
