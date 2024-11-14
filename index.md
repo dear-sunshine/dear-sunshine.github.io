@@ -88,6 +88,8 @@ Many people experience feelings of isolation or sadness and could benefit from p
 
 ## Team
 Dear is designed, created and built by [Casey Caro](https://kmiks.github.io/), [Isabelle Castro](https://icastro808.github.io/), [Lucas Corriero](https://lucascorriero.github.io/) and [Tiffany Duong](https://tiffanyduong1.github.io/).
+[Team Contract](https://docs.google.com/document/d/18n-m7_Bmxgu_4VKnOa8Fqvjzj1smqy1n0AgkDyvxk6c/edit?tab=t.0).
 
 ## Organization
-GitHub: [Dear Sunshine](https://github.com/dear-sunshine)
+[Dear Sunshine Organization](https://github.com/dear-sunshine)
+[Current Page's Repository]([https://github.com/dear-sunshin](https://github.com/dear-sunshine/dear-sunshine.github.io/tree/main)
