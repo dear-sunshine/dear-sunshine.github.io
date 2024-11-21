@@ -79,7 +79,7 @@ Many people experience feelings of isolation or sadness and could benefit from p
 <div class="container">
   <div class="content">
     <h2>Home Page</h2>
-    <img src="./m1-hompepage.png">
+    <img src="./m1-homepage.png">
   </div>
 </div>
 
