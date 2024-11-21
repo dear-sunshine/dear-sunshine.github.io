@@ -1,10 +1,12 @@
 ## Dear Sunshine
 * [Overview](#overview)
 * [Project Mockups](#project-mockups)
+* [Up to Date Screenshots](#up-to-date-screenshots)
 * [Project Milestones](#project-milestones)
 * [Developer Guide](#developer-guide)
 * [Deployment](#deployment)
 * [Team](#team)
+* [Contract](#contract)
 * [Organization](#organization)
 
 ## Overview
@@ -73,8 +75,11 @@ Many people experience feelings of isolation or sadness and could benefit from p
   </div>
 </div>
 
+## Up to Date Screenshots
+
 ## Project Milestones
 * [M1 Issues](https://github.com/orgs/dear-sunshine/projects/3)
+* [M2 Issues](https://github.com/orgs/dear-sunshine/projects/4)
 
 ## Developer Guide
 1. [Install PostgreSQL](https://www.postgresql.org/download/).
@@ -92,7 +97,9 @@ Many people experience feelings of isolation or sadness and could benefit from p
 
 ## Team
 Dear is designed, created and built by [Casey Caro](https://kmiks.github.io/), [Isabelle Castro](https://icastro808.github.io/), [Lucas Corriero](https://lucascorriero.github.io/) and [Tiffany Duong](https://tiffanyduong1.github.io/).
-[Team Contract](https://docs.google.com/document/d/18n-m7_Bmxgu_4VKnOa8Fqvjzj1smqy1n0AgkDyvxk6c/edit?tab=t.0).
+
+## Contract
+[Our Contract](https://docs.google.com/document/d/18n-m7_Bmxgu_4VKnOa8Fqvjzj1smqy1n0AgkDyvxk6c/edit?tab=t.0).
 
 ## Organization
 * [Dear Sunshine Organization](https://github.com/dear-sunshine)
