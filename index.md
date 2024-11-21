@@ -3,6 +3,7 @@
 * [Project Mockups](#project-mockups)
 * [Project Milestones](#project-milestones)
 * [Developer Guide](#developer-guide)
+* [Deployment](#deployment)
 * [Team](#team)
 * [Organization](#organization)
 
@@ -85,6 +86,9 @@ Many people experience feelings of isolation or sadness and could benefit from p
 7. Seed the database with the `/config/settings.development.json` data using `npx prisma db seed`.
 8. Run the app with `npm run dev`.
 9. If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000).
+    
+## Deployment
+* [Dear Sunshine](https://dearsunshine.vercel.app/)
 
 ## Team
 Dear is designed, created and built by [Casey Caro](https://kmiks.github.io/), [Isabelle Castro](https://icastro808.github.io/), [Lucas Corriero](https://lucascorriero.github.io/) and [Tiffany Duong](https://tiffanyduong1.github.io/).
