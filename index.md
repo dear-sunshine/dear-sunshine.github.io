@@ -83,7 +83,7 @@ Many people experience feelings of isolation or sadness and could benefit from p
   </div>
 </div>
 
-<!-- <div class="container">
+<div class="container">
   <div class="content">
     <h2>Sign Up/Sign In</h2>
     <img src="./m1-sign-up.png">
@@ -96,7 +96,7 @@ Many people experience feelings of isolation or sadness and could benefit from p
     <h2>Sign Out</h2>
     <img src="./m1-sign-out.png">
   </div>
-</div> -->
+</div>
 
 <div class="container">
   <div class="content">
