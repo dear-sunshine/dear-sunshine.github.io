@@ -76,6 +76,48 @@ Many people experience feelings of isolation or sadness and could benefit from p
 </div>
 
 ## Up to Date Screenshots
+<div class="container">
+  <div class="content">
+    <h2>Home Page</h2>
+    <img src="./m1-hompepage.png">
+  </div>
+</div>
+
+<!-- <div class="container">
+  <div class="content">
+    <h2>Sign Up/Sign In</h2>
+    <img src="./m1-sign-up.png">
+    <img src="./m1-sign-in.png">
+  </div>
+</div>
+
+<div class="container">
+  <div class="content">
+    <h2>Sign Out</h2>
+    <img src="./m1-sign-out.png">
+  </div>
+</div> -->
+
+<div class="container">
+  <div class="content">
+    <h2>Write Letter</h2>
+    <img src="./m1-add.png">
+  </div>
+</div>
+
+<div class="container">
+  <div class="content">
+    <h2>Letter Board</h2>
+    <img src="./m1-letter-board.png">
+  </div>
+</div>
+
+<div class="container">
+  <div class="content">
+    <h2>Mental Health Resources</h2>
+    <img src="./m1-mental-health.png">
+  </div>
+</div>
 
 ## Project Milestones
 * [M1 Issues](https://github.com/orgs/dear-sunshine/projects/3)
