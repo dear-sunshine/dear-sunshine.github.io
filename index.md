@@ -1,8 +1,8 @@
 ## Dear Sunshine
 * [Overview](#overview)
 * [Project Mockups](#project-mockups)
-* [Up to Date Screenshots](#up-to-date-screenshots)
 * [Project Milestones](#project-milestones)
+* [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Deployment](#deployment)
 * [Team](#team)
@@ -11,6 +11,8 @@
 * [Adherence to GitHub Hosting Guidelines](#adherence-to-github-hosting-guidelines)
 
 ## Overview
+
+A platform where users can post letters to a "letter board" when they need encouragement or want to vent. The application allows others to respond to these letters, offering support and kindness. The goal is to create a friendly, uplifting environment that brightens someone's day.
 
 Many people experience feelings of isolation or sadness and could benefit from positive, uplifting messages to brighten their day. While social media allows for sharing updates, it lacks a dedicated space where users can anonymously send and receive encouragement within a supportive community. Dear Sunshine addresses this gap by providing a platform where users can receive kind messages in response to what they've shared or vented about on the board.
 
@@ -76,7 +78,17 @@ Many people experience feelings of isolation or sadness and could benefit from p
   </div>
 </div>
 
-## Up to Date Screenshots
+## Project Milestones
+* [M1 Issues](https://github.com/orgs/dear-sunshine/projects/3)
+* [M2 Issues](https://github.com/orgs/dear-sunshine/projects/4)
+* [M3 Issues](https://github.com/orgs/dear-sunshine/projects/6)
+
+## User Guide
+We will guide users through the currently implemented functionality of the system through our currently the following screeenshots. 
+
+navigate the profile page, where you can view your posts and replies, along with their respective counts. You can explore your posts and replies displayed in an organized layout, each with tags or timestamps to help you track your activity. Additionally, you can interact with features like editing your profile signature or viewing detailed insights, ensuring a user-friendly and personalized experience.
+
+
 <div class="container">
   <div class="content">
     <h2>Home Page</h2>
@@ -102,6 +114,7 @@ Many people experience feelings of isolation or sadness and could benefit from p
 <div class="container">
   <div class="content">
     <h2>Write Letter</h2>
+    <p>On this page, users can compose their own letter and post it to the letter board for others to read and respond to. They can also add relevant tags to their posts to make it easier for others to find. The letter content is limited to 500 characters to encourage concise and meaningful messages.</p>
     <img src="./m1-add.png">
   </div>
 </div>
@@ -109,6 +122,7 @@ Many people experience feelings of isolation or sadness and could benefit from p
 <div class="container">
   <div class="content">
     <h2>Letter Board</h2>
+    <p>This page is a space where all users can view letter posts from themselves and others, and engage by replying to them. Users also have the ability to edit or delete their own posts, giving them full control over their content. To help find specific letters, a filter feature is available, allowing users to search for posts based on their preferences.</p>
     <img src="./m1-letter-board.png">
   </div>
 </div>
@@ -116,13 +130,19 @@ Many people experience feelings of isolation or sadness and could benefit from p
 <div class="container">
   <div class="content">
     <h2>Mental Health Resources</h2>
+    <p>This page provides a collection of self-care tips and mental health resources to support users through life’s challenges. Users will find practical advice, like practicing gratitude, journaling, and taking mindful breaks, along with guidance on connecting with uplifting people and hobbies. For times when professional help is needed, the page lists helplines and directories to ensure users have access to immediate support and encouragement.</p>
     <img src="./m1-mental-health.png">
   </div>
 </div>
 
-## Project Milestones
-* [M1 Issues](https://github.com/orgs/dear-sunshine/projects/3)
-* [M2 Issues](https://github.com/orgs/dear-sunshine/projects/4)
+div class="container">
+  <div class="content">
+    <h2>Profile</h2>
+    <p>This page allows users to view their posts and replies, along with their respective counts. Additionally, users can personalize their signature by replacing the default "Sunshine," which signs off posts with "From Sunshine" and replies with "Dear Sunshine."</p>
+    <img src="./m1-mental-health.png">
+  </div>
+</div>
+
 
 ## Developer Guide
 1. [Install PostgreSQL](https://www.postgresql.org/download/).
