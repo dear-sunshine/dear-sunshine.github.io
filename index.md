@@ -91,6 +91,7 @@ navigate the profile page, where you can view your posts and replies, along with
 
 <div class="container">
   <div class="content">
+    <h2>Sign Out/h2>
     <p>This page allows users to securely sign out of their account, ensuring their session is safely ended.</p>
     <img src="./m1-sign-out.png">
   </div>
@@ -116,18 +117,17 @@ navigate the profile page, where you can view your posts and replies, along with
   <div class="content">
     <h2>Mental Health Resources</h2>
     <p>This page provides a collection of self-care tips and mental health resources to support users through life’s challenges. Users will find practical advice, like practicing gratitude, journaling, and taking mindful breaks, along with guidance on connecting with uplifting people and hobbies. For times when professional help is needed, the page lists helplines and directories to ensure users have access to immediate support and encouragement.</p>
-    <img src="./m1-mental-health.png">
+    <img src="./m1-letter-board.png">
   </div>
 </div>
 
-div class="container">
+<div class="container">
   <div class="content">
     <h2>Profile</h2>
     <p>This page allows users to view their posts and replies, along with their respective counts. Additionally, users can personalize their signature by replacing the default "Sunshine," which signs off posts with "From Sunshine" and replies with "Dear Sunshine."</p>
-    <img src="./m1-mental-health.png">
+    <img src="./m1-letter-board.png">
   </div>
 </div>
-
 
 ## Developer Guide
 1. [Install PostgreSQL](https://www.postgresql.org/download/).
