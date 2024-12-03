@@ -20,35 +20,21 @@ Many people experience feelings of isolation or sadness and could benefit from p
 <div class="container">
   <div class="content">
     <h2>Home Page</h2>
-    <p>The main page displays featured letters and a call-to-action for users to “Write a Letter” or “Read a Letter.” The page encourages engagement with inspiring quotes or uplifting messages.</p>
     <img src="./home-page.jpg">
   </div>
 </div>
 
 <!-- <div class="container">
-  <div class="content">
-    <h2>Sign Up/Sign In</h2>
-  </div>
-</div>
-
-<div class="container">
-  <div class="content">
-    <h2>Sign Out</h2>
-  </div>
-</div> -->
-
-<div class="container">
-  <div class="content">
-    <h2>Home Page with Login</h2>
-    <p>The main page displayed once the user is logged in. They will gain access to the other pages where they can write or read a letter.</p>
-    <img src="./home-page-2.jpg">
-  </div>
-</div>
+        <div class="content">
+          <h2>Home Page with Login</h2>
+          <p>The main page displayed once the user is logged in. They will gain access to the other pages where they can write or read a letter.</p>
+          <img src="./home-page-2.jpg">
+        </div>
+      </div> -->
 
 <div class="container">
   <div class="content">
     <h2>Write Letter</h2>
-    <p>A page where users can compose and post their letters to the letter board, offering encouragement or sharing their thoughts.</p>
     <img src="./write-letter.jpg">
   </div>
 </div>
@@ -56,7 +42,6 @@ Many people experience feelings of isolation or sadness and could benefit from p
 <div class="container">
   <div class="content">
     <h2>Letter Board</h2>
-    <p>Displays a collection of anonymous letters that users can filter by subject, such as “School” or “Friendship.” Users can respond to letters on this page or send a virtual cheer by clicking “Send Sunshine.”</p>
     <img src="./letter-board-1.jpg">
     <img src="./letter-board-2.jpg">
   </div>
@@ -65,7 +50,6 @@ Many people experience feelings of isolation or sadness and could benefit from p
 <div class="container">
   <div class="content">
     <h2>Mental Health Resources</h2>
-    <p>A page with helpful links and contact information for mental health resources, including helplines and local organizations.</p>
     <img src="./mental-health.jpg">
   </div>
 </div>
@@ -73,7 +57,6 @@ Many people experience feelings of isolation or sadness and could benefit from p
 <div class="container">
   <div class="content">
     <h2>Profile</h2>
-    <p>This page allows users to view and edit their profile, including personal information and activity history on the platform.</p>
     <img src="./profile.jpg">
   </div>
 </div>
@@ -92,6 +75,7 @@ navigate the profile page, where you can view your posts and replies, along with
 <div class="container">
   <div class="content">
     <h2>Home Page</h2>
+    <p>This is the main landing page of the site, where users can only access the sign-up or sign-in page to create a new account or log in to an existing one.</p>
     <img src="./m1-homepage.png">
   </div>
 </div>
@@ -99,6 +83,7 @@ navigate the profile page, where you can view your posts and replies, along with
 <div class="container">
   <div class="content">
     <h2>Sign Up/Sign In</h2>
+    <p>Here, users can either create a new account through the sign-up process or log in to an existing account to access the other pages.</p>
     <img src="./m1-sign-up.png">
     <img src="./m1-sign-in.png">
   </div>
@@ -106,7 +91,7 @@ navigate the profile page, where you can view your posts and replies, along with
 
 <div class="container">
   <div class="content">
-    <h2>Sign Out</h2>
+    <p>This page allows users to securely sign out of their account, ensuring their session is safely ended.</p>
     <img src="./m1-sign-out.png">
   </div>
 </div>
