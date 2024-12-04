@@ -8,7 +8,7 @@
 * [Team](#team)
 * [Contract](#contract)
 * [Organization](#organization)
-* [Adherence to GitHub Hosting Guidelines](#adherence-to-github-hosting-guidelines)
+* [Guidelines](#guidelines)
 
 ## Overview
 
@@ -154,7 +154,7 @@ Dear is designed, created and built by [Casey Caro](https://kmiks.github.io/), [
 * [Current Home Page's Repository](https://github.com/dear-sunshine/dear-sunshine.github.io/tree/main)
 * [Project Page's Repository](https://github.com/dear-sunshine/dear-sunshine)
 
-## Adherence to GitHub Hosting Guidelines
+## Guidelines
 * [Click here to see: Github Hosting Guidelines](https://courses.ics.hawaii.edu/ics314f24/morea/project-management/reading-guidelines-github-hosting.html)
 <br>
 Our team is committed to following the GitHub hosting guidelines to ensure a seamless and professional project development experience. We are hosting all essential source code within the repository, while avoiding "derived" files that can be generated locally, such as the node_modules directory. This is managed by utilizing a .gitignore file to exclude non-essential files. We have established a dedicated GitHub organization for our team-based development, where each member has "owner" status, ensuring equal collaboration and contribution. The project home page is maintained separately in a dear-sunshine.github.io repository using GitHub Pages, while the core application is developed in a distinct repository. Additionally, we are documenting our project thoroughly, including an overview, user guide, developer guide, and a detailed development history, adhering to the structured guidelines provided.
