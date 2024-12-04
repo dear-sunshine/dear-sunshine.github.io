@@ -125,7 +125,7 @@ navigate the profile page, where you can view your posts and replies, along with
   <div class="content">
     <h2>Profile</h2>
     <p>This page allows users to view their posts and replies, along with their respective counts. Additionally, users can personalize their signature by replacing the default "Sunshine," which signs off posts with "From Sunshine" and replies with "Dear Sunshine."</p>
-    <img src="./m2-profilepng">
+    <img src="./m2-profile.png">
   </div>
 </div>
 
