@@ -1,6 +1,7 @@
 ## Dear Sunshine
 ![dear-sunshine](https://github.com/dear-sunshine/dear-sunshine/actions/workflows/ci.yml/badge.svg)
 
+## Table of Contents
 * [Overview](#overview)
 * [Project Mockups](#project-mockups)
 * [Project Milestones](#project-milestones)
