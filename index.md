@@ -91,7 +91,7 @@ navigate the profile page, where you can view your posts and replies, along with
 
 <div class="container">
   <div class="content">
-    <h2>Sign Out/h2>
+    <h2>Sign Out</h2>
     <p>This page allows users to securely sign out of their account, ensuring their session is safely ended.</p>
     <img src="./m1-sign-out.png">
   </div>
