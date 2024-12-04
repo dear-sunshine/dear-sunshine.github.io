@@ -2,7 +2,6 @@ title: Dear Sunshine
 description: 
 google_analytics:
 show_downloads: false
-remote_theme: mmistakes/hpstr-jekyll-theme
-plugins: - jekyll-remote-theme
+theme: jekyll-theme-time-machine
 gems:
   - jekyll-mentions
