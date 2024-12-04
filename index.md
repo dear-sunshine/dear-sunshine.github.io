@@ -1,5 +1,5 @@
 ## Dear Sunshine
-![dear-sunshine](https://github.com/dear-sunshine/site-M1/actions/workflows/ci.yml/badge.svg)
+![dear-sunshine](https://github.com/dear-sunshine/dear-sunshine/actions/workflows/ci.yml/badge.svg)
 
 * [Overview](#overview)
 * [Project Mockups](#project-mockups)
