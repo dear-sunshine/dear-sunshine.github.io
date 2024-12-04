@@ -101,7 +101,7 @@ navigate the profile page, where you can view your posts and replies, along with
   <div class="content">
     <h2>Write Letter</h2>
     <p>On this page, users can compose their own letter and post it to the letter board for others to read and respond to. They can also add relevant tags to their posts to make it easier for others to find. The letter content is limited to 500 characters to encourage concise and meaningful messages.</p>
-    <img src="./m1-add.png">
+    <img src="./m2-write-letter.png">
   </div>
 </div>
 
@@ -109,7 +109,7 @@ navigate the profile page, where you can view your posts and replies, along with
   <div class="content">
     <h2>Letter Board</h2>
     <p>This page is a space where all users can view letter posts from themselves and others, and engage by replying to them. Users also have the ability to edit or delete their own posts, giving them full control over their content. To help find specific letters, a filter feature is available, allowing users to search for posts based on their preferences.</p>
-    <img src="./m1-letter-board.png">
+    <img src="./m2-letter-board.png">
   </div>
 </div>
 
@@ -117,7 +117,7 @@ navigate the profile page, where you can view your posts and replies, along with
   <div class="content">
     <h2>Mental Health Resources</h2>
     <p>This page provides a collection of self-care tips and mental health resources to support users through life’s challenges. Users will find practical advice, like practicing gratitude, journaling, and taking mindful breaks, along with guidance on connecting with uplifting people and hobbies. For times when professional help is needed, the page lists helplines and directories to ensure users have access to immediate support and encouragement.</p>
-    <img src="./m1-letter-board.png">
+    <img src="./m2-mental-health.png">
   </div>
 </div>
 
@@ -125,7 +125,7 @@ navigate the profile page, where you can view your posts and replies, along with
   <div class="content">
     <h2>Profile</h2>
     <p>This page allows users to view their posts and replies, along with their respective counts. Additionally, users can personalize their signature by replacing the default "Sunshine," which signs off posts with "From Sunshine" and replies with "Dear Sunshine."</p>
-    <img src="./m1-letter-board.png">
+    <img src="./m2-profilepng">
   </div>
 </div>
 
