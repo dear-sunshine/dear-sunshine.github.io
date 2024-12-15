@@ -63,6 +63,8 @@ We will guide users through the system's functionality using the following scree
   <div class="content">
     <h2>Home Page</h2>
     <p>Users are provided an overview of the application and its purpose. For users who are not logged in, the page restricts access to most pages and features but still allows navigation to the Mental Health Resources page through the footer. Once a user logs in, the navigation bar updates, granting full access to other key pages of the site.</p>
+    <img src="./m3-images/m3-home1.png">
+    <img src="./m3-images/m3-home2.png">
   </div>
 </div>
 
@@ -103,7 +105,7 @@ We will guide users through the system's functionality using the following scree
   <div class="content">
     <h2>Letter Board</h2>
     <p>Displays all user letters and their replies, sorted chronologically and can be filtered by tags. Users can engage with the letters by replying with supportive or thoughtful messages or through reactions. They can also edit or delete their own letters, giving them full control over their content.</p>
-    <img src="./m2-images/m2-board.png">
+    <img src="./m3-images/m3-board.png">
   </div>
 </div>
 
@@ -127,7 +129,7 @@ We will guide users through the system's functionality using the following scree
   <div class="content">
     <h2>Profile</h2>
     <p>Users will be able to view and manage their posts and replies, along with counts for each. Users can also personalize their signature name by replacing the default "Sunshine," which signs off posts with "From Sunshine" and replies with "Dear Sunshine."</p>
-    <img src="./m2-images/m2-profile.png">
+    <img src="./m3-images/m3-profile.png">
   </div>
 </div>
 
