@@ -2,8 +2,7 @@
 ![dear-sunshine](https://github.com/dear-sunshine/dear-sunshine/actions/workflows/ci.yml/badge.svg)
 
 ## Table of Contents
-* [Overview](#overview)
-* [Project Mockups](#project-mockups)
+* [Overview](#overview) <!-- * [Project Mockups](#project-mockups) -->
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Deployment](#deployment)
@@ -19,7 +18,7 @@ Dear Sunshine is a program where users can post letters to a "letter board" when
 
 Many people experience feelings of isolation or sadness and could benefit from positive, uplifting messages to brighten their day. While social media allows for sharing updates, it lacks a dedicated space where users can anonymously send and receive encouragement within a supportive community. Dear Sunshine addresses this gap by providing a platform where users can receive kind messages in response to what they've shared or vented about on the board.
 
-## Project Mockups
+<!-- ## Project Mockups
 <div class="container">
   <div class="content">
     <h2>Home Page</h2>
@@ -54,7 +53,7 @@ Many people experience feelings of isolation or sadness and could benefit from p
     <h2>Profile</h2>
     <img src="./mockup-images/profile.jpg">
   </div>
-</div>
+</div> -->
 
 ## User Guide
 We will guide users through the system's functionality using the following screenshots, accompanied by explanations of what can be accomplished on each page.
@@ -153,6 +152,7 @@ We will guide users through the system's functionality using the following scree
 * [M3 Issues](https://github.com/orgs/dear-sunshine/projects/6)
 
 ## Community Feedback
+The feedback from UH community members varied in their likes and dislikes of our application. Many found the application to be 'cute' and 'calm,' appreciating its friendly concept for venting and responding. The reaction feature on the letter board was well-liked, with users stating, 'it was like platforms such as Twitter or Facebook.' However, members also expressed a desire for more customization options, such as the ability to choose their own color scheme or theme, as well as the option to create custom tags for their letters.
 
 ## Team
 Dear is designed, created and built by [Casey Caro](https://kmiks.github.io/), [Isabelle Castro](https://icastro808.github.io/), [Lucas Corriero](https://lucascorriero.github.io/) and [Tiffany Duong](https://tiffanyduong1.github.io/).
